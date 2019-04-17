@@ -1,5 +1,5 @@
 # Boomerang
-Boomerang is a perpetual motion generator that produces linear oscillation and orbital motion efficiently using mathematical wave functions. Easily fine-tune any game object to oscillate creatively in the Unity game engine.
+Boomerang is a free Unity3D asset package for game developers and designers to use in their projects. It is a perpetual motion generator that produces linear oscillation and orbital motion. Easily fine-tune any game object to oscillate creatively in the Unity game engine.
 
 ## Instructions
 <ol>
