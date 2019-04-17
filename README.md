@@ -3,8 +3,8 @@ Boomerang is a perpetual motion generator that produces linear oscillation and o
 
 ## Instructions
 <ol>
-  <li><b>Download</b> and <b>import</b> the package asset into your unity project.</li>
+  <li><b>Download</b> and <b>import</b> the package asset into your Unity project.</li>
   <li><b>Attach</b> <i>boomerang.cs</i> to one or more GameObjects or prefabs.</li>
-  <li><b>Fine-tune</b> your component's settings.</li>
-  <li><b>Run</b> Unity.</li>
+  <li><b>Tweek</b> your component's settings.</li>
+  <li><b>Press Play</b>.</li>
 </ol>
